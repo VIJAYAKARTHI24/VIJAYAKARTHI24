@@ -6,9 +6,6 @@ Electronics & Communication Engineer | IoT • Embedded Systems • Web Developm
 📍 Tamil Nadu, India
 🔗 [LinkedIn](https://www.linkedin.com/in/vijayakarthi/) • [IEEE Member #102232794](https://www.ieee.org/)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=VIJAYAKARTHI24&show_icons=true&theme=dark&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VIJAYAKARTHI24&layout=compact&theme=dark&hide_border=true)
-
 ---
 
 ## Skills
